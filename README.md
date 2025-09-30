@@ -4,6 +4,8 @@ A unique, interactive RSVP web app that simulates a real-time chat conversation 
 
 [**Live Demo on Netlify**](haminnie-bday.netlify.app)
 
+![demo](imgs/demo.gif)
+
 ### Motivation
 
 This project was created to provide a more engaging and personal experience for event guests, moving beyond traditional invitation formats by simulating a real-time, interactive chat.
